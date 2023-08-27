@@ -1,4 +1,4 @@
-module github.com/saferwall/elf
+module github.com/refractionPOINT/elf
 
 go 1.20
 
